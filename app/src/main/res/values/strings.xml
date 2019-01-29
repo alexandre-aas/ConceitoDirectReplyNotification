@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConceitoDirectReplyNotification</string>
+    <string name="android_7_0_nougat">Android 7.0 Nougat</string>
+    <string name="enviar_notificao">Enviar Notificação</string>
+</resources>
